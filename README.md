@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/nuop7mm' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/nuop7mm.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Merged video created with [Clideo](https://clideo.com/editor/merge-video) and gif created with [ezgif](https://ezgif.com/video-to-gif/).
 
